@@ -14,9 +14,10 @@
 
 |heading 1|heading 2| heading 3|
 |-----|-------|-----|
-|data 1|data 2|data 3|
+|- [data](www.google.com) 1|- data 2|- data 3|
 
 - ### Fenced Code Block
+
 ```
 {
   "firstName": "John",
@@ -26,7 +27,7 @@
 ```
 
 - ### Image from web
-
+![]()
 ![this is a random image from the web](https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 - ### Image from repository (relative path)
