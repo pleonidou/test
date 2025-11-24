@@ -1,9 +1,14 @@
+# Markdown Language - Important Tags
+
 - ### Headings
   - # Heading 1
   - ## Heading 2
   - ### Heading 3
   - #### Heading 4
 
+- ### Emphasis
+  - *italic text*
+  -  **bold text**
 
 - ### Tables
 
